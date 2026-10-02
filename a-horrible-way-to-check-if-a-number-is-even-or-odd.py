@@ -2,7 +2,7 @@ x = int(input('What is the number? '))
 if x == 1:
     print('The number is odd')
 else: 
-    if x == 2:
+    if x == 2 or x == 0:
         print('The number is even')
     else:
         if x == 3:
