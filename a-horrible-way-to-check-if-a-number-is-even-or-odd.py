@@ -1,4 +1,4 @@
-x = int(input('What is the number?'))
+x = int(input('What is the number? '))
 if x == 1:
     print('The number is odd')
 else: 
