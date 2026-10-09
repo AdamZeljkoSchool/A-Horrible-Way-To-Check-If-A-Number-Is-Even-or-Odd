@@ -1136,11 +1136,11 @@ while True:
     elif x == 566:
         print('The number is even')
     elif x == 567:
-        print('The number is unholy.')
+        print('The number is odd')
     elif x == 568:
         print('The number is even')
     elif x == 569:
-        print('The number is funny :)')
+        print('The number is odd')
     elif x == 570:
         print('The number is even')
     elif x == 571:
