@@ -1003,503 +1003,503 @@ while True:
         print('The number is odd')
     elif x == 500:
         print('The number is even')
-    elif x == 1:
+    elif x == 501:
         print('The number is odd')
-    elif x == 2:
+    elif x == 502:
         print('The number is even')
-    elif x == 3:
+    elif x == 503:
         print('The number is odd')
-    elif x == 4:
+    elif x == 504:
         print('The number is even')
-    elif x == 5:
+    elif x == 505:
         print('The number is odd')
-    elif x == 6:
+    elif x == 506:
         print('The number is even')
-    elif x == 7:
+    elif x == 507:
         print('The number is odd')
-    elif x == 8:
+    elif x == 508:
         print('The number is even')
-    elif x == 9:
+    elif x == 509:
         print('The number is odd')
-    elif x == 10:
+    elif x == 510:
         print('The number is even')
-    elif x == 11:
+    elif x == 511:
         print('The number is odd')
-    elif x == 12:
+    elif x == 512:
         print('The number is even')
-    elif x == 13:
+    elif x == 513:
         print('The number is odd')
-    elif x == 14:
+    elif x == 514:
         print('The number is even')
-    elif x == 15:
+    elif x == 515:
         print('The number is odd')
-    elif x == 16:
+    elif x == 516:
         print('The number is even')
-    elif x == 17:
+    elif x == 517:
         print('The number is odd')
-    elif x == 18:
+    elif x == 518:
         print('The number is even')
-    elif x == 19:
+    elif x == 519:
         print('The number is odd')
-    elif x == 20:
+    elif x == 520:
         print('The number is even')
-    elif x == 21:
+    elif x == 521:
         print('The number is odd')
-    elif x == 22:
+    elif x == 522:
         print('The number is even')
-    elif x == 23:
+    elif x == 523:
         print('The number is odd')
-    elif x == 24:
+    elif x == 524:
         print('The number is even')
-    elif x == 25:
+    elif x == 525:
         print('The number is odd')
-    elif x == 26:
+    elif x == 526:
         print('The number is even')
-    elif x == 27:
+    elif x == 527:
         print('The number is odd')
-    elif x == 28:
+    elif x == 528:
         print('The number is even')
-    elif x == 29:
+    elif x == 529:
         print('The number is odd')
-    elif x == 30:
+    elif x == 530:
         print('The number is even')
-    elif x == 31:
+    elif x == 531:
         print('The number is odd')
-    elif x == 32:
+    elif x == 532:
         print('The number is even')
-    elif x == 33:
+    elif x == 533:
         print('The number is odd')
-    elif x == 34:
+    elif x == 534:
         print('The number is even')
-    elif x == 35:
+    elif x == 535:
         print('The number is odd')
-    elif x == 36:
+    elif x == 536:
         print('The number is even')
-    elif x == 37:
+    elif x == 537:
         print('The number is odd')
-    elif x == 38:
+    elif x == 538:
         print('The number is even')
-    elif x == 39:
+    elif x == 539:
         print('The number is odd')
-    elif x == 40:
+    elif x == 540:
         print('The number is even')
-    elif x == 41:
+    elif x == 541:
         print('The number is odd')
-    elif x == 42:
+    elif x == 542:
         print('The number is even')
-    elif x == 43:
+    elif x == 543:
         print('The number is odd')
-    elif x == 44:
+    elif x == 544:
         print('The number is even')
-    elif x == 45:
+    elif x == 545:
         print('The number is odd')
-    elif x == 46:
+    elif x == 546:
         print('The number is even')
-    elif x == 47:
+    elif x == 547:
         print('The number is odd')
-    elif x == 48:
+    elif x == 548:
         print('The number is even')
-    elif x == 49:
+    elif x == 549:
         print('The number is odd')
-    elif x == 50:
+    elif x == 550:
         print('The number is even')
-    elif x == 51:
+    elif x == 551:
         print('The number is odd')
-    elif x == 52:
+    elif x == 552:
         print('The number is even')
-    elif x == 53:
+    elif x == 553:
         print('The number is odd')
-    elif x == 54:
+    elif x == 554:
         print('The number is even')
-    elif x == 55:
+    elif x == 555:
         print('The number is odd')
-    elif x == 56:
+    elif x == 556:
         print('The number is even')
-    elif x == 57:
+    elif x == 557:
         print('The number is odd')
-    elif x == 58:
+    elif x == 558:
         print('The number is even')
-    elif x == 59:
+    elif x == 559:
         print('The number is odd')
-    elif x == 60:
+    elif x == 560:
         print('The number is even')
-    elif x == 61:
+    elif x == 561:
         print('The number is odd')
-    elif x == 62:
+    elif x == 562:
         print('The number is even')
-    elif x == 63:
+    elif x == 563:
         print('The number is odd')
-    elif x == 64:
+    elif x == 564:
         print('The number is even')
-    elif x == 65:
+    elif x == 565:
         print('The number is odd')
-    elif x == 66:
+    elif x == 566:
         print('The number is even')
-    elif x == 67:
+    elif x == 567:
         print('The number is unholy.')
-    elif x == 68:
+    elif x == 568:
         print('The number is even')
-    elif x == 69:
+    elif x == 569:
         print('The number is funny :)')
-    elif x == 70:
+    elif x == 570:
         print('The number is even')
-    elif x == 71:
+    elif x == 571:
         print('The number is odd')
-    elif x == 72:
+    elif x == 572:
         print('The number is even')
-    elif x == 73:
+    elif x == 573:
         print('The number is odd')
-    elif x == 74:
+    elif x == 574:
         print('The number is even')
-    elif x == 75:
+    elif x == 575:
         print('The number is odd')
-    elif x == 76:
+    elif x == 576:
         print('The number is even')
-    elif x == 77:
+    elif x == 577:
         print('The number is odd')
-    elif x == 78:
+    elif x == 578:
         print('The number is even')
-    elif x == 79:
+    elif x == 579:
         print('The number is odd')
-    elif x == 80:
+    elif x == 580:
         print('The number is even')
-    elif x == 81:
+    elif x == 581:
         print('The number is odd')
-    elif x == 82:
+    elif x == 582:
         print('The number is even')
-    elif x == 83:
+    elif x == 583:
         print('The number is odd')
-    elif x == 84:
+    elif x == 584:
         print('The number is even')
-    elif x == 85:
+    elif x == 585:
         print('The number is odd')
-    elif x == 86:
+    elif x == 586:
         print('The number is even')
-    elif x == 87:
+    elif x == 587:
         print('The number is odd')
-    elif x == 88:
+    elif x == 588:
         print('The number is even')
-    elif x == 89:
+    elif x == 589:
         print('The number is odd')
-    elif x == 90:
+    elif x == 590:
         print('The number is even')
-    elif x == 91:
+    elif x == 591:
         print('The number is odd')
-    elif x == 92:
+    elif x == 592:
         print('The number is even')
-    elif x == 93:
+    elif x == 593:
         print('The number is odd')
-    elif x == 94:
+    elif x == 594:
         print('The number is even')
-    elif x == 95:
+    elif x == 595:
         print('The number is odd')
-    elif x == 96:
+    elif x == 596:
         print('The number is even')
-    elif x == 97:
+    elif x == 597:
         print('The number is odd')
-    elif x == 98:
+    elif x == 598:
         print('The number is even')
-    elif x == 99:
+    elif x == 599:
         print('The number is odd')
-    elif x == 100:
+    elif x == 600:
         print('The number is even')
-    elif x == 101:
+    elif x == 601:
         print('The number is odd')
-    elif x == 102:
+    elif x == 602:
         print('The number is even')
-    elif x == 103:
+    elif x == 603:
         print('The number is odd')
-    elif x == 104:
+    elif x == 604:
         print('The number is even')
-    elif x == 105:
+    elif x == 605:
         print('The number is odd')
-    elif x == 106:
+    elif x == 606:
         print('The number is even')
-    elif x == 107:
+    elif x == 607:
         print('The number is odd')
-    elif x == 108:
+    elif x == 608:
         print('The number is even')
-    elif x == 109:
+    elif x == 609:
         print('The number is odd')
-    elif x == 110:
+    elif x == 610:
         print('The number is even')
-    elif x == 111:
+    elif x == 611:
         print('The number is odd')
-    elif x == 112:
+    elif x == 612:
         print('The number is even')
-    elif x == 113:
+    elif x == 613:
         print('The number is odd')
-    elif x == 114:
+    elif x == 614:
         print('The number is even')
-    elif x == 115:
+    elif x == 615:
         print('The number is odd')
-    elif x == 116:
+    elif x == 616:
         print('The number is even')
-    elif x == 117:
+    elif x == 617:
         print('The number is odd')
-    elif x == 118:
+    elif x == 618:
         print('The number is even')
-    elif x == 119:
+    elif x == 619:
         print('The number is odd')
-    elif x == 120:
+    elif x == 620:
         print('The number is even')
-    elif x == 121:
+    elif x == 621:
         print('The number is odd')
-    elif x == 122:
+    elif x == 622:
         print('The number is even')
-    elif x == 123:
+    elif x == 623:
         print('The number is odd')
-    elif x == 124:
+    elif x == 624:
         print('The number is even')
-    elif x == 125:
+    elif x == 625:
         print('The number is odd')
-    elif x == 126:
+    elif x == 626:
         print('The number is even')
-    elif x == 127:
+    elif x == 627:
         print('The number is odd')
-    elif x == 128:
+    elif x == 628:
         print('The number is even')
-    elif x == 129:
+    elif x == 629:
         print('The number is odd')
-    elif x == 130:
+    elif x == 630:
         print('The number is even')
-    elif x == 131:
+    elif x == 631:
         print('The number is odd')
-    elif x == 132:
+    elif x == 632:
         print('The number is even')
-    elif x == 133:
+    elif x == 633:
         print('The number is odd')
-    elif x == 134:
+    elif x == 634:
         print('The number is even')
-    elif x == 135:
+    elif x == 635:
         print('The number is odd')
-    elif x == 136:
+    elif x == 636:
         print('The number is even')
-    elif x == 137:
+    elif x == 637:
         print('The number is odd')
-    elif x == 138:
+    elif x == 638:
         print('The number is even')
-    elif x == 139:
+    elif x == 639:
         print('The number is odd')
-    elif x == 140:
+    elif x == 640:
         print('The number is even')
-    elif x == 141:
+    elif x == 641:
         print('The number is odd')
-    elif x == 142:
+    elif x == 642:
         print('The number is even')
-    elif x == 143:
+    elif x == 643:
         print('The number is odd')
-    elif x == 144:
+    elif x == 644:
         print('The number is even')
-    elif x == 145:
+    elif x == 645:
         print('The number is odd')
-    elif x == 146:
+    elif x == 646:
         print('The number is even')
-    elif x == 147:
+    elif x == 647:
         print('The number is odd')
-    elif x == 148:
+    elif x == 648:
         print('The number is even')
-    elif x == 149:
+    elif x == 649:
         print('The number is odd')
-    elif x == 150:
+    elif x == 650:
         print('The number is even')
-    elif x == 151:
+    elif x == 651:
         print('The number is odd')
-    elif x == 152:
+    elif x == 652:
         print('The number is even')
-    elif x == 153:
+    elif x == 653:
         print('The number is odd')
-    elif x == 154:
+    elif x == 654:
         print('The number is even')
-    elif x == 155:
+    elif x == 655:
         print('The number is odd')
-    elif x == 156:
+    elif x == 656:
         print('The number is even')
-    elif x == 157:
+    elif x == 657:
         print('The number is odd')
-    elif x == 158:
+    elif x == 658:
         print('The number is even')
-    elif x == 159:
+    elif x == 659:
         print('The number is odd')
-    elif x == 160:
+    elif x == 660:
         print('The number is even')
-    elif x == 161:
+    elif x == 661:
         print('The number is odd')
-    elif x == 162:
+    elif x == 662:
         print('The number is even')
-    elif x == 163:
+    elif x == 663:
         print('The number is odd')
-    elif x == 164:
+    elif x == 664:
         print('The number is even')
-    elif x == 165:
+    elif x == 665:
         print('The number is odd')
-    elif x == 166:
+    elif x == 666:
         print('The number is even')
-    elif x == 167:
+    elif x == 667:
         print('The number is odd')
-    elif x == 168:
+    elif x == 668:
         print('The number is even')
-    elif x == 169:
+    elif x == 669:
         print('The number is odd')
-    elif x == 170:
+    elif x == 670:
         print('The number is even')
-    elif x == 171:
+    elif x == 671:
         print('The number is odd')
-    elif x == 172:
+    elif x == 672:
         print('The number is even')
-    elif x == 173:
+    elif x == 673:
         print('The number is odd')
-    elif x == 174:
+    elif x == 674:
         print('The number is even')
-    elif x == 175:
+    elif x == 675:
         print('The number is odd')
-    elif x == 176:
+    elif x == 676:
         print('The number is even')
-    elif x == 177:
+    elif x == 677:
         print('The number is odd')
-    elif x == 178:
+    elif x == 678:
         print('The number is even')
-    elif x == 179:
+    elif x == 679:
         print('The number is odd')
-    elif x == 180:
+    elif x == 680:
         print('The number is even')
-    elif x == 181:
+    elif x == 681:
         print('The number is odd')
-    elif x == 182:
+    elif x == 682:
         print('The number is even')
-    elif x == 183:
+    elif x == 683:
         print('The number is odd')
-    elif x == 184:
+    elif x == 684:
         print('The number is even')
-    elif x == 185:
+    elif x == 685:
         print('The number is odd')
-    elif x == 186:
+    elif x == 686:
         print('The number is even')
-    elif x == 187:
+    elif x == 687:
         print('The number is odd')
-    elif x == 188:
+    elif x == 688:
         print('The number is even')
-    elif x == 189:
+    elif x == 689:
         print('The number is odd')
-    elif x == 190:
+    elif x == 690:
         print('The number is even')
-    elif x == 191:
+    elif x == 691:
         print('The number is odd')
-    elif x == 192:
+    elif x == 692:
         print('The number is even')
-    elif x == 193:
+    elif x == 693:
         print('The number is odd')
-    elif x == 194:
+    elif x == 694:
         print('The number is even')
-    elif x == 195:
+    elif x == 695:
         print('The number is odd')
-    elif x == 196:
+    elif x == 696:
         print('The number is even')
-    elif x == 197:
+    elif x == 697:
         print('The number is odd')
-    elif x == 198:
+    elif x == 698:
         print('The number is even')
-    elif x == 199:
+    elif x == 699:
         print('The number is odd')
-    elif x == 200:
+    elif x == 700:
         print('The number is even')
-    elif x == 201:
+    elif x == 701:
         print('The number is odd')
-    elif x == 202:
+    elif x == 702:
         print('The number is even')
-    elif x == 203:
+    elif x == 703:
         print('The number is odd')
-    elif x == 204:
+    elif x == 704:
         print('The number is even')
-    elif x == 205:
+    elif x == 705:
         print('The number is odd')
-    elif x == 206:
+    elif x == 706:
         print('The number is even')
-    elif x == 207:
+    elif x == 707:
         print('The number is odd')
-    elif x == 208:
+    elif x == 708:
         print('The number is even')
-    elif x == 209:
+    elif x == 709:
         print('The number is odd')
-    elif x == 210:
+    elif x == 710:
         print('The number is even')
-    elif x == 211:
+    elif x == 711:
         print('The number is odd')
-    elif x == 212:
+    elif x == 712:
         print('The number is even')
-    elif x == 213:
+    elif x == 713:
         print('The number is odd')
-    elif x == 214:
+    elif x == 714:
         print('The number is even')
-    elif x == 215:
+    elif x == 715:
         print('The number is odd')
-    elif x == 216:
+    elif x == 716:
         print('The number is even')
-    elif x == 217:
+    elif x == 717:
         print('The number is odd')
-    elif x == 218:
+    elif x == 718:
         print('The number is even')
-    elif x == 219:
+    elif x == 719:
         print('The number is odd')
-    elif x == 220:
+    elif x == 720:
         print('The number is even')
-    elif x == 221:
+    elif x == 721:
         print('The number is odd')
-    elif x == 222:
+    elif x == 722:
         print('The number is even')
-    elif x == 223:
+    elif x == 723:
         print('The number is odd')
-    elif x == 224:
+    elif x == 724:
         print('The number is even')
-    elif x == 225:
+    elif x == 725:
         print('The number is odd')
-    elif x == 226:
+    elif x == 726:
         print('The number is even')
-    elif x == 227:
+    elif x == 727:
         print('The number is odd')
-    elif x == 228:
+    elif x == 728:
         print('The number is even')
-    elif x == 229:
+    elif x == 729:
         print('The number is odd')
-    elif x == 230:
+    elif x == 730:
         print('The number is even')
-    elif x == 231:
+    elif x == 731:
         print('The number is odd')
-    elif x == 232:
+    elif x == 732:
         print('The number is even')
-    elif x == 233:
+    elif x == 733:
         print('The number is odd')
-    elif x == 234:
+    elif x == 734:
         print('The number is even')
-    elif x == 235:
+    elif x == 735:
         print('The number is odd')
-    elif x == 236:
+    elif x == 736:
         print('The number is even')
-    elif x == 237:
+    elif x == 737:
         print('The number is odd')
-    elif x == 238:
+    elif x == 738:
         print('The number is even')
-    elif x == 239:
+    elif x == 739:
         print('The number is odd')
-    elif x == 240:
+    elif x == 740:
         print('The number is even')
-    elif x == 241:
+    elif x == 741:
         print('The number is odd')
-    elif x == 242:
+    elif x == 742:
         print('The number is even')
-    elif x == 243:
+    elif x == 743:
         print('The number is odd')
-    elif x == 244:
+    elif x == 744:
         print('The number is even')
-    elif x == 245:
+    elif x == 745:
         print('The number is odd')
-    elif x == 246:
+    elif x == 746:
         print('The number is even')
-    elif x == 247:
+    elif x == 747:
         print('The number is odd')
-    elif x == 248:
+    elif x == 748:
         print('The number is even')
-    elif x == 249:
+    elif x == 749:
         print('The number is odd')
     elif x == 750:
         print('The number is even')
