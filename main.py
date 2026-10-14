@@ -1,5 +1,8 @@
+# Import the methods
 import aHorribleWayToCheckIfANumberIsEvenOrOdd as b
 import aGoodWayToCheckIfANumberIsEvenOrOdd as g
+
+# Input / Output
 choice = str(input("Would you like a good way to check if a number is even or odd or a bad way? [Good/Bad]: "))
 if choice == "Good":
     while True:
